@@ -26,8 +26,6 @@
 ### 📫 Connect with Me
 
 - **LinkedIn:** (https://www.linkedin.com/in/rasmika-s-47ba00433)
-- **Email:** rasmika.summer2021@gmail.com
-
 ---
 
 *“Discipline over motivation. Constantly learning and building step by step.”*
