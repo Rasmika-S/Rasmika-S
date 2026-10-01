@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** C (currently learning), Python (next up)
+- **Languages:** C (currently learning), Python (Basic syntax & fundamentals)
 - **Core Concepts:** Problem Solving, Algorithms, Data Structures
 - **Tools:** Git, GitHub, VS Code
 
